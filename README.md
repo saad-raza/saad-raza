@@ -33,13 +33,13 @@ work:
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=mohammadsaadraza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsaadraza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=saad-raza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-raza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 
 <div align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaadraza&theme=dark&hide_border=false&color=green"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=saad-raza&theme=dark&hide_border=false&color=green"/>
 </div>
 
 # :hammer_and_pick: Projects:
@@ -116,6 +116,6 @@ Optical Network Simulation Tool, built on the research works from [Telecom Intra
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammadsaadraza&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=saad-raza&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
