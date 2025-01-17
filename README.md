@@ -1,6 +1,6 @@
 ```yaml
 name: Saad Raza
-profession: Software Enginee
+profession: Software Engineer
     
 experience:
   - Software Engineer: Vartana, Inc.
